@@ -1,0 +1,4 @@
+name: appsec-queries/all
+version: 0.0.0
+dependencies:
+  codeql/javascript-all: "*"
