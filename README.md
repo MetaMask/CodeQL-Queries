@@ -32,7 +32,7 @@ source ~/.bashrc  # or ~/.zshrc if using Zsh
 ## Repository Structure
 
 * /queries: Contains all custom CodeQL queries, organized by category
-  * /Crypto: Queries related to cryptographic checks
+  * /crypto: Queries related to cryptographic checks
   * e.g. /best-practices: Best practices queries
   * e.g./performance: Performance-related queries
 * /query-suites: Contains query suite (.qls) files for different combinations of queries
